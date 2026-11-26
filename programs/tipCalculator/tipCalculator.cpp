@@ -11,7 +11,7 @@ string tipPerMessage = "How much percentage of tonights dinner are you willing t
 double tipCalc(double dCost, double tipP);
 
 int main(){
-	
+
 	double dinnerCost;
 	double tipPercentage;
 	double totalTip; 
